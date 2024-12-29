@@ -1,8 +1,7 @@
 Face Mask Detection System
                                                                                                                                                                                                                                                                                 
-Description
-This repository contains a Convolutional Neural Network (CNN)-based face mask detection system. It classifies images into two categories: "With Mask" and "Without Mask." The project includes data preprocessing, model architecture definition, training, and performance evaluation.
-
+Description:                                                                                                                                                                                                         
+This repository contains a Convolutional Neural Network (CNN)-based face mask detection system. It classifies images into two categories: "With Mask" and "Without Mask." The project includes data preprocessing, model architecture definition, training, and performance evaluation.                                                                                                                                                 
 The model is built using TensorFlow, OpenCV, and Python.
 
 Dataset

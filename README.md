@@ -15,24 +15,10 @@ data/
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
+                                                                                                                                                                                                                       
 Steps to Download the Dataset:
 Visit Kaggle's Face Mask Detection Dataset (search for appropriate datasets).
 Download and extract the dataset.
 Place the extracted folders inside a directory named data/ in the project root.
-How to Use
-Clone the repository:
-git clone https://github.com/username/Face-Mask-Detection-System.git
-cd Face-Mask-Detection-System
-Install dependencies:
-pip install -r requirements.txt
+Install dependencies: pip install -r requirements.txt
 Place the dataset as per the directory structure mentioned above.
-
-Run the project:
-python main.py
-Features
-Preprocesses images for consistency.
-CNN-based architecture for high accuracy.
-Evaluates performance using validation data.
-Future Enhancements
-Add real-time video detection.
-Deploy the model as a web or mobile application.

@@ -16,7 +16,7 @@ data/
 │   ├── image2.jpg
 │   └── ...
                                                                                                                                                                                                                        
-Steps to Download the Dataset:
+Steps to Download the Dataset:                                                                                                                                                                                         
 Visit Kaggle's Face Mask Detection Dataset (search for appropriate datasets).
 Download and extract the dataset.
 Place the extracted folders inside a directory named data/ in the project root.

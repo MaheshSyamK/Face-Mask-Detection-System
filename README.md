@@ -5,20 +5,9 @@ This repository contains a Convolutional Neural Network (CNN)-based face mask de
 The model is built using TensorFlow, and Python.
 
 Dataset
-The dataset is not included in this repository. You need to download the dataset from Kaggle. Ensure the dataset is structured as follows:
-data/
-├── with_mask/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-├── without_mask/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-                                                                                                                                                                                                                       
+The dataset is not included in this repository. You need to download the dataset from Kaggle.                                                                                                                                                                                                              
 Steps to Download the Dataset:                                                                                                                                                                                         
 Visit Kaggle's Face Mask Detection Dataset (search for appropriate datasets).
 Download and extract the dataset.
 Place the extracted folders inside a directory named data/ in the project root.
 Install dependencies: pip install -r requirements.txt
-Place the dataset as per the directory structure mentioned above.
